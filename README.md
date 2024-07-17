@@ -9,9 +9,9 @@
 <h2 align="center">Salam Alaykom!<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
 
-Khaled is here! I'm Studying IT, currently working on Python and Bash Script projects. Im Bug Hunter, and care about programming and open source apps.
+Khaled is here!, currently working on Python and Bash Script projects. Im Bug Hunter, and care about programming and open source apps.
 
-Hobbies: Watching Anime,Running and eating.
+Hobbies: Watching Anime,Running.
 
 ## Languages and Tools
 [![My Languages](https://skillicons.dev/icons?i=py,bash,html,css)](https://skillicons.dev)

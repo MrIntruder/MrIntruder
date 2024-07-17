@@ -22,6 +22,6 @@ Hobbies: Watching Anime,Running.
 [![My Social Media](https://skillicons.dev/icons?i=twitter)](https://x.com/z_Khaledz)
 
 ## Thank you for the visit!
-<img draggable="false" src="https://i.pinimg.com/originals/ae/40/60/ae40603eddb6e4bb1ea56cc6de7d0f6e.gif" alt="Bye">
+<img draggable="false" src="https://i.pinimg.com/originals/6a/ff/9a/6aff9a8eb394072767356b385b1ed9c5.gif" alt="Bye">
 
 </div>

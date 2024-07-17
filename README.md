@@ -13,11 +13,12 @@ Khaled is here!, currently working on Python and Bash Script projects. Im Bug Hu
 
 Hobbies: Watching Anime,Running.
 
-## Languages and Tools
+## Languages
 [![My Languages](https://skillicons.dev/icons?i=py,bash,html,css)](https://skillicons.dev)
 <br>
+## Tools
 [![My Tools](https://skillicons.dev/icons?i=linux,git,vscode,windows,atom,kali&perline=5)](https://skillicons.dev)
-
+<br>
 ## Social Media
 [![My Social Media](https://skillicons.dev/icons?i=twitter)](https://x.com/z_Khaledz)
 
